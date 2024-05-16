@@ -1,0 +1,65 @@
+body{
+    text-align: center;
+    background-color: black;
+}
+
+div.container{
+    background-color: antiquewhite;
+    border-radius: 8%;
+    
+}
+
+.image{
+    width: 70px;
+    text-align: left;
+
+}
+
+.Inputin{
+    color: white;
+    background-color: blue;
+}
+
+
+.input{
+    width: 450px;
+}
+
+.inputt{
+    width: 500px;
+}
+
+.Point{
+    text-align: left;
+    background-color: white;
+    color: yellow;
+}
+
+.Submit{
+    color: white;
+    background-color: green;
+    margin-top: 5px;
+}
+
+.Cancel{
+    color: white;
+    background-color: red;
+}
+
+.INPUT{
+    background-color: red;
+    width: 500px;
+}
+
+.INIPUT{
+    background-color: green;
+    width: 500px;
+}
+
+.Deleted{
+    color: red;
+}
+
+.Updated{
+    color: green;
+}
